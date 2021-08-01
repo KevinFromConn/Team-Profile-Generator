@@ -1,0 +1,16 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "Challenge for Module 10 - OOP",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.6"
+  }
+}
