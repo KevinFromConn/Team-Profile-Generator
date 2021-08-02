@@ -130,7 +130,7 @@ const mainApp = () => {
         {
           type: "input",
           name: "internName",
-          message: "What is your intenr's name?",
+          message: "What is your intern's name?",
         },
         {
           type: "input",
@@ -152,7 +152,7 @@ const mainApp = () => {
         const intern = new Intern(
           response.internName,
           response.internID,
-          response.intenrEmail,
+          response.internEmail,
           response.internSchool
         );
         const internCardHTML = internCard(intern);
