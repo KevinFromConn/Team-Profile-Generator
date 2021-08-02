@@ -6,10 +6,10 @@ This application allows the user (in this case, another developer) to generate a
 
 This video shows how the user would generate a webpage using only the prompts in the command line after running node app.js in the develop folder. I have included a link to the video, as well as an admittedly low-quality gif, so hopefully it can be easlily viewed.
 
-==============================
-GIF AND VIDEO LINK GO HERE
-==============================
+[Link to GIF](https://github.com/KevinFromConn/team-profile-generator/blob/main/Team-Profile-Generator.gif.gif)
+
+[Link to Walkthrough Video](https://drive.google.com/file/d/1ICUjHlErlWHlY0s7yE3AzlFxLhFNPZ9_/view)
 
 # Example of Generated HTML File
 
-
+[This HTML file was generated using the command line](https://github.com/KevinFromConn/team-profile-generator/blob/main/generated-webpage-08012021.html)
